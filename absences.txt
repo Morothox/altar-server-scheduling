@@ -1,0 +1,10 @@
+# Absences Altar Servers
+# Format: Name|Date (e.g. Max|1.04.25)
+# One entry per line
+# Comments start with #
+
+Max|1.04.25
+Lisa|8.04.25
+Tom|15.04.25
+Anna|22.04.25
+Paul|29.04.25
